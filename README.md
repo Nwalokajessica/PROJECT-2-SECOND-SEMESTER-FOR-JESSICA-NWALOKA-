@@ -35,24 +35,23 @@ Before you begin, make sure you meet the following prerequisites to ensure a sea
 
 💻 **Development Tools**: Access to tools like Git Bash or Visual Studio Code (VSCode) for file management and executing commands.
 
-__
+___
 With these essentials covered, you’re ready to jump in and get started! 🚀
 ---
 ### Step-by-Step Guide: Server Provisioning and Deployment  
 
-##. Crafting the Web Page##
+### 1. **Creating the Web Page**  
 
 - Developed a lightweight HTML page enhanced with minimal CSS for styling, using Visual Studio Code as the primary editor.  
 - Prioritized a clean, professional aesthetic to ensure a sleek and straightforward user experience.  
 
-##2. Provisioning the Server##
-
+##2. **Provisioning the Server**  
 - Set up a virtual server instance using AWS EC2:  
   - Created an instance with a custom name, generated a key pair for secure access, and established a security group.  
   - Configured the security group to permit HTTP traffic on port 80 for web accessibility.  
 - Successfully launched the EC2 instance and accessed the server via SSH, using Termius as the terminal client.
   
-### 3. **Installing and Configuring Nginx##
+### 3. **Installing and Configuring Nginx**
 
 Installed Nginx on the server using the following commands:
 sudo apt update  
@@ -63,7 +62,7 @@ sudo systemctl enable nginx
 Verified the installation by accessing the server's public IP address in a web browser to confirm the default Nginx welcome page was successfully displayed.
 
 
-### 4. **Transferring Project Files##
+### 4. **Transferring Project Files**
 
 
 Leveraged WinSCP, a file transfer tool, to manually upload the project folder (cloudproject) to the server. Alternatively, the following command can be used:
@@ -72,7 +71,7 @@ Verified the successful transfer by listing the contents of Nginx's root directo
 ls -l /var/www/html  
 
 ---
-### 5. **Enabling HTTPS with Let’s Encrypt##
+### 5. **Enabling HTTPS with Let’s Encrypt**
 Installed the necessary tools for managing SSL certificates:
 
 sudo apt update  
@@ -82,7 +81,7 @@ sudo certbot --nginx -d jessica.web.strangled.net
 This command seamlessly configured the Nginx server to enable HTTPS, ensuring secure and encrypted communication.
 
 ---
-### 6. **Verifying the SSL Certificate##
+### 6. **Verifying the SSL Certificate**
 
 Verified the SSL certificate by visiting https://jessica.web.strangled.net
 Ensured the secure connection was active by checking for the padlock icon in the browser’s address bar.
