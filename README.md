@@ -22,9 +22,7 @@ This repository offers a detailed roadmap for:
 Step-by-Step Documentation: 
 __
 
-Server Provisioning and Deployment
-More than just a step-by-step guide, this project equips you with a robust toolkit for building a secure, scalable, and dependable web server that meets contemporary web standards. Whether you're a beginner in web hosting or a seasoned developer, this repository will refine your skills and deepen your expertise in hosting and web security.
----
+Server Provisioning and Deployment: this project equips you with a robust toolkit for building a secure, scalable, and dependable web server that meets contemporary web standards. 
 ## Prerequisites 
 
 Before you begin, make sure you meet the following prerequisites to ensure a seamless setup experience:
