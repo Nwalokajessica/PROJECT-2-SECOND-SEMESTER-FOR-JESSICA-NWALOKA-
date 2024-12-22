@@ -1,0 +1,76 @@
+/* styles.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Header and Navigation */
+header {
+    background-color: #ff0000; /* Red color for header */
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styling */
+section {
+    background: white;
+    margin: 2em auto;
+    padding: 2em;
+    max-width: 800px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid #ff0000; /* Red highlight for sections */
+    border-radius: 5px;
+}
+
+/* Section Headers */
+h2 {
+    color: #ff0000; /* Red color for headers */
+    margin-bottom: 1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Paragraph Styling */
+p {
+    margin: 1em 0;
+    text-align: justify;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 2em;
+    padding: 1em 0;
+    background: #ff0000; /* Red footer */
+    color: white;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
