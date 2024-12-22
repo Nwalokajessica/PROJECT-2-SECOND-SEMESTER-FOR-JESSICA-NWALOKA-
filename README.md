@@ -45,7 +45,7 @@ With these essentials covered, you’re ready to jump in and get started! 🚀
 - Developed a lightweight HTML page enhanced with minimal CSS for styling, using Visual Studio Code as the primary editor.  
 - Prioritized a clean, professional aesthetic to ensure a sleek and straightforward user experience.  
 
-##2. **Provisioning the Server**  
+## 2. **Provisioning the Server**  
 - Set up a virtual server instance using AWS EC2:  
   - Created an instance with a custom name, generated a key pair for secure access, and established a security group.  
   - Configured the security group to permit HTTP traffic on port 80 for web accessibility.  
