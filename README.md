@@ -1,15 +1,14 @@
 # PROJECT-2-SECOND-SEMESTER-FOR-JESSICA-NWALOKA-
+
 A PROJECT GIVEN BY ALTSCHOOL FOR CLOUD ENGINEERING STUDENTS.
-# PROJECT-2-SECOND-SEMESTER-FOR-JESSICA-NWALOKA-
 
 # Nginx Web Hosting on Ubuntu EC2 Instance with HTTPS and Free SSL Certificate
 ___
 
-Nginx Web Hosting on Ubuntu EC2 Instance with HTTPS and Free SSL Certificate
----
 ## Project Overview
 
 The goal of this project is to provision a server and deploy a prototype web application with a sleek and professional landing page. This landing page highlights the team's technical expertise and vision, serving as a compelling tool to engage potential investors. By combining efficient server setup, web development, and design, the project delivers a functional and visually impressive preview of the application.
+
 ---
 ## Repository Highlights
 
@@ -30,11 +29,11 @@ More than just a step-by-step guide, this project equips you with a robust toolk
 
 Before you begin, make sure you meet the following prerequisites to ensure a seamless setup experience:
 
-🔧 Basic Linux Command Knowledge: A good grasp of fundamental Linux commands will make it easier to manage and interact with the server.
+🔧 **Basic Linux Command Knowledge**: A good grasp of fundamental Linux commands will make it easier to manage and interact with the server.
 
-☁️ EC2 Instance Preparation: Familiarity with launching an EC2 instance and configuring security groups to allow HTTP and HTTPS traffic.
+☁️ **EC2 Instance Preparation**: Familiarity with launching an EC2 instance and configuring security groups to allow HTTP and HTTPS traffic.
 
-💻 Development Tools: Access to tools like Git Bash or Visual Studio Code (VSCode) for file management and executing commands.
+💻 **Development Tools**: Access to tools like Git Bash or Visual Studio Code (VSCode) for file management and executing commands.
 
 __
 With these essentials covered, you’re ready to jump in and get started! 🚀
