@@ -81,7 +81,8 @@ This command seamlessly configured the Nginx server to enable HTTPS, ensuring se
 ---
 ### 6. **Verifying the SSL Certificate**
 
-Verified the SSL certificate by visiting https://jessica.web.strangled.net
+Verified the SSL certificate by visiting https://jessica.web.strangled.net 
+
 Ensured the secure connection was active by checking for the padlock icon in the browser’s address bar.
 ---
 ### 7. **Running the Web Page**  
