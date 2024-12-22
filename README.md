@@ -20,7 +20,7 @@ This repository offers a detailed roadmap for:
 
 ---
 Step-by-Step Documentation: 
-__
+___
 
 Server Provisioning and Deployment: this project equips you with a robust toolkit for building a secure, scalable, and dependable web server that meets contemporary web standards. 
 ## Prerequisites 
