@@ -92,5 +92,5 @@ Refreshed the browser using the public IP address or domain to display the deplo
 
 ---
 ## IP Address  
-The project is accessible temporarily at **[13.53.99.32](http://13.53.99.32)**  13.53.99.32 for verification purposes only.
+The project is accessible temporarily at **[13.53.99.32](http://13.53.99.32)** for verification purposes only.
 
